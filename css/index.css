@@ -11,6 +11,10 @@ h2 {
   color: var(--color-principal);
 }
 
+.white {
+  color: #ffffff;
+}
+
 .contact-form input,
 .contact-form textarea {
   width: 100%;
